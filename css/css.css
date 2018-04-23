@@ -1,0 +1,26 @@
+body{
+    font-size:16px;
+  }
+h1,h2,h3,h4,h5,h6{
+    font-weight: bold;
+    font-family:'Poppins';
+}
+.showcase-left img{
+    max-width: 90%;
+    max-height: 90%;
+}
+.section-2{
+    background: #f1f1f1
+}
+.section-2 p{
+    font-size: 28px;
+    font-family: 'Josefin Sans'
+}
+.section-2 p.customer{
+    font-size: 23px;
+    color: #666;
+}
+.section-3 img{
+    max-width: 90%;
+    max-height: 90%;
+}
